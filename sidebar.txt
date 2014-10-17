@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hmq:home|Door43 (hmq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hmq|d43-hmq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hmq/archive/master.zip|d43-hmq.zip]]
+
+**Recent Changes**
+{{changes>ns = hmq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hmq|Ethnologue data]]
+
